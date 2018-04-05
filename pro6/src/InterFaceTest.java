@@ -280,6 +280,5 @@ public class InterFaceTest {
          * 犯错点:
          *  构造方法写了返回值! 构造方法没有返回值
          */
-
     }
 }
